@@ -1,3 +1,3 @@
 # **Practicas Bioseñales**
 **Andres Banquez Cabarcas**\
-**Estudiante 2**
+**Melina Villada**
