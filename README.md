@@ -1,3 +1,4 @@
 # **Practicas Bioseñales**
 **Andres Banquez Cabarcas**\
-**Melina Villada**
+**Melina Villada Lopez**\
+**Grupo 7**
